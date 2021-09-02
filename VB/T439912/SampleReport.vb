@@ -5,11 +5,11 @@ Imports System.ComponentModel
 Imports DevExpress.XtraReports.UI
 
 Namespace T439912
-    Partial Public Class SampleReport
-        Inherits DevExpress.XtraReports.UI.XtraReport
+	Partial Public Class SampleReport
+		Inherits DevExpress.XtraReports.UI.XtraReport
 
-        Public Sub New()
-            InitializeComponent()
-        End Sub
-    End Class
+		Public Sub New()
+			InitializeComponent()
+		End Sub
+	End Class
 End Namespace
