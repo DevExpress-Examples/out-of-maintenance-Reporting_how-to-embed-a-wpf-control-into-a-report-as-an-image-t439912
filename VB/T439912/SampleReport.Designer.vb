@@ -68,7 +68,7 @@
 			' xrLabel1
 			' 
 			Me.xrLabel1.Dpi = 100F
-			Me.xrLabel1.Font = New System.Drawing.Font("Tahoma", 11F)
+			Me.xrLabel1.Font = New DevExpress.Drawing.DXFont("Tahoma", 11F)
 			Me.xrLabel1.LocationFloat = New DevExpress.Utils.PointFloat(10.00001F, 10.00001F)
 			Me.xrLabel1.Name = "xrLabel1"
 			Me.xrLabel1.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 96F)
@@ -86,7 +86,7 @@
 			' xrLabel2
 			' 
 			Me.xrLabel2.Dpi = 100F
-			Me.xrLabel2.Font = New System.Drawing.Font("Tahoma", 11F)
+			Me.xrLabel2.Font = New DevExpress.Drawing.DXFont("Tahoma", 11F)
 			Me.xrLabel2.LocationFloat = New DevExpress.Utils.PointFloat(10.00001F, 67.00001F)
 			Me.xrLabel2.Name = "xrLabel2"
 			Me.xrLabel2.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100F)
