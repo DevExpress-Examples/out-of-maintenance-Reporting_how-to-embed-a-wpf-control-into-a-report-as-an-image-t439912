@@ -6,7 +6,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml.cs](./CS/T439912/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/T439912/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to embed a WPF control into a report as an image
 
